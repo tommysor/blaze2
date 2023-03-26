@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advent", "advent\advent.csproj", "{920705F1-468F-4BA3-8D02-5DADA9CFF72C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adventTests", "adventTests\adventTests.csproj", "{71153912-F7C7-4DBD-A259-2B9560E8CF61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{920705F1-468F-4BA3-8D02-5DADA9CFF72C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920705F1-468F-4BA3-8D02-5DADA9CFF72C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920705F1-468F-4BA3-8D02-5DADA9CFF72C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920705F1-468F-4BA3-8D02-5DADA9CFF72C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71153912-F7C7-4DBD-A259-2B9560E8CF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71153912-F7C7-4DBD-A259-2B9560E8CF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71153912-F7C7-4DBD-A259-2B9560E8CF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71153912-F7C7-4DBD-A259-2B9560E8CF61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
