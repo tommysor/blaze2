@@ -27,6 +27,9 @@
     <Content Include="Day3Input.txt" CopyToOutputDirectory="PreserveNewest" />
     <Content Include="Day4Input.txt" CopyToOutputDirectory="PreserveNewest" />
     <Content Include="Day5Input.txt" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Day6Input.txt" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Day7Input.txt" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Day8Input.txt" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 
   <ItemGroup>
